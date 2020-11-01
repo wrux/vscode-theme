@@ -1,0 +1,34 @@
+{
+	"name": "wruz",
+	"displayName": "wrux",
+	"description": "",
+	"version": "0.1.3",
+	"keywords": [
+		"theme",
+		"dark",
+		"high contrast",
+		"8-bit"
+	],
+	"publisher": "handsomeone",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "wrux",
+				"uiTheme": "hc-black",
+				"path": "./themes/wrux-color-theme.json"
+			}
+		]
+	},
+	"icon": "icon.png",
+	"__metadata": {
+		"id": "696a3e71-cc2b-4223-a197-0b87ce85df11",
+		"publisherId": "9f67bd2b-e161-4c94-b846-5c20fd539a16",
+		"publisherDisplayName": "Zhou Qi"
+	}
+}
